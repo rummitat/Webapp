@@ -9,4 +9,4 @@ Rules are very well explained here: http://mathwithbaddrawings.com/2013/06/16/ul
 I hacked it together pretty fast, Also ignore the non-functional AI for now, but feel free to add/redo 
 any part you like. I will accept merge requests. Thanks. :)
 
-<img src="https://raw.github.com/kennycason/ultimate_tictactoe/master/screenshot.png"/>
+<img src="screenshot.png"/>
